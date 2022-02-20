@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3w0q8e17hp4p8chv?svg=true)](https://ci.appveyor.com/project/dunaev-k-s/aqa2-hw2-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/jhvpvn2fnn853fkl?svg=true)](https://ci.appveyor.com/project/dunaev-k-s/aqa2-hw2-3)
